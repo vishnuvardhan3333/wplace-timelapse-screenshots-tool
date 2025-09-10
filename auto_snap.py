@@ -285,9 +285,9 @@ def get_user_inputs():
             print("Example: (Tl X: 1471, Tl Y: 923, Px X: 63, Px Y: 995)")
     
     # Get output directory
-    output_dir = input("Enter output directory (default: screenshots): ").strip()
+    output_dir = input("Enter output directory (default: project1): ").strip()
     if not output_dir:
-        output_dir = "screenshots"
+        output_dir = "project1"
     
     # Get interval
     while True:
