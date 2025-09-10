@@ -31,7 +31,7 @@ The tool will prompt you for:
 1. **🌐 wplace.live URL**: Paste the URL from your browser
 2. **📍 Start Coordinates**: Copy-paste from Blue Marble (e.g., `(Tl X: 1470, Tl Y: 923, Px X: 600, Px Y: 400)`)
 3. **📍 End Coordinates**: Define the bottom-right corner of your capture area
-4. **📁 Output Directory**: Where to save screenshots (default: `screenshots`)
+4. **📁 Output Directory**: Where to save screenshots (default: `project1`)
 5. **⏱️ Interval**: How often to take screenshots (in seconds)
 
 ### Example Session
@@ -43,7 +43,7 @@ Enter START coordinates (copy from Blue Marble): (Tl X: 1470, Tl Y: 923, Px X: 6
 ✓ Parsed: Tl X: 1470, Tl Y: 923, Px X: 600, Px Y: 400
 Enter END coordinates (copy from Blue Marble): (Tl X: 1471, Tl Y: 924, Px X: 200, Px Y: 800)
 ✓ Parsed: Tl X: 1471, Tl Y: 924, Px X: 200, Px Y: 800
-Enter output directory (default: screenshots): my_screenshots
+Enter output directory (default: project1): my_screenshots
 Enter screenshot interval in seconds (e.g., 3600 for 1 hour): 1800
 
 === Configuration ===
