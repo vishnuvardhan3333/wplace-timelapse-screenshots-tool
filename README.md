@@ -1,0 +1,1 @@
+# wplace-timelapse-screenshots-tool
